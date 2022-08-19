@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <diagnosis category="Bolest dišnog sustava" name="Upala pluća (Pneumonija)">
+    <symptom>Glavobolja</symptom>
+    <symptom>Groznica</symptom>
+    <symptom>Drhtanje</symptom>
+    <symptom>Bolovi u mišićima</symptom>
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Kašalj</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest dišnog sustava" name="Tuberkuloza">
+    <symptom>Gubitak tjelesne temperature</symptom>
+    <symptom>Groznica</symptom>
+    <symptom>Umor</symptom>
+    <symptom>Bolni zglobovi</symptom>
+    <symptom>Bolovi u zglobovima</symptom>
+    <symptom>Proljev</symptom>
+    <symptom>Otečene limfne žlijezde</symptom>
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Kašalj</symptom>
+    <symptom>Krv u iskašljaju</symptom>
+    <symptom>Znojenje</symptom>
+    <symptom>Ubrzano disanje </symptom>
+    <symptom>Gubitak sluha </symptom>
+  </diagnosis>
+  <diagnosis category="Bolest dišnog sustava" name="Bronhitis">
+    <symptom>Umor</symptom>
+    <symptom>Drhtanje</symptom>
+    <symptom>Kašalj</symptom>
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Malaksavost</symptom>
+    <symptom>Iscrpljenost</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest dišnog sustava" name="Prehlada">
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Kašalj</symptom>
+    <symptom>Drhtanje</symptom>
+    <symptom>Curenje nosa</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest dišnog sustava" name="Gripa">
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Groznica</symptom>
+    <symptom>Glavobolja</symptom>
+    <symptom>Bolovi u mišićima</symptom>
+    <symptom>Kašalj</symptom>
+    <symptom>Malaksavost</symptom>
+    <symptom>Umor</symptom>
+    <symptom>Bolovi u očima</symptom>
+    <symptom>Bolovi u zglobovima</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest dišnog sustava" name="Rak pluća">
+    <symptom>Gubitak tjelesne težine</symptom>
+    <symptom>Zadebljani prsti</symptom>
+    <symptom>Gubitak daha</symptom>
+    <symptom>Slabost u mišićima</symptom>
+    <symptom>Bolovi u prsima</symptom>
+    <symptom>Bolovi u leđima</symptom>
+    <symptom>Depresija</symptom>
+    <symptom>Promjena raspoloženja</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Infarkt miocarda">
+    <symptom>Mučnina</symptom>
+    <symptom>Bolovi u rukama</symptom>
+    <symptom>Znojenje</symptom>
+    <symptom>Bolovi u vratu</symptom>
+    <symptom>Bolovi u leđima</symptom>
+    <symptom>Bolovi u prsima</symptom>
+    <symptom>Gubitak daha</symptom>
+    <symptom>Gubitak orijentacije</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Ateroskleroza">
+    <symptom>Iscrpljenost</symptom>
+    <symptom>Vrtoglavica</symptom>
+    <symptom>Ukočenost</symptom>
+    <symptom>Bolovi u prsima</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Angina pectoris">
+    <symptom>Bolovi u prsima</symptom>
+    <symptom>Vrtoglavica</symptom>
+    <symptom>Znojenje</symptom>
+    <symptom>Gubitak daha</symptom>
+    <symptom>Mučnina</symptom>
+    <symptom>Iscrpljenost</symptom>
+    <symptom>Bolovi u rukama</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Aritmija">
+    <symptom>Ubrzani rad srca</symptom>
+    <symptom>Nepravilni otkucaji srca</symptom>
+    <symptom>Bolovi u prsima</symptom>
+    <symptom>Gubitak daha</symptom>
+    <symptom>Gubitak svjesti</symptom>
+    <symptom>Vrtoglavica</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Prirođene srčane mane">
+    <symptom>Gubitak daha</symptom>
+    <symptom>Cijanoza</symptom>
+    <symptom>Bolovi u prsima</symptom>
+    <symptom>Sinkopa</symptom>
+    <symptom>Šum na srcu</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Niski krvni tlak (Hipotenzija)">
+    <symptom>Slabost</symptom>
+    <symptom>Umor</symptom>
+    <symptom>Osjećaj praznine u glavi</symptom>
+    <symptom>Vrtoglavica</symptom>
+    <symptom>Ubrzano disanje</symptom>
+    <symptom>Mučnina</symptom>
+  </diagnosis>
+  <diagnosis category="Bolest kardiovaskularnog sustava" name="Visoki krvni tlak (Hipertenzija)">
+    <symptom>Glavobolja</symptom>
+    <symptom>Krvarenje iz nosa</symptom>
+    <symptom>Zujanje u ušima</symptom>
+    <symptom>Drhtanje mišića</symptom>
+    <symptom>Bljedilo kože</symptom>
+    <symptom>Znojenje</symptom>
+  </diagnosis>
+  <diagnosis category="Kožne bolesti" name="Gljivična infekcija">
+    <symptom>Crvenilo</symptom>
+    <symptom>Zadebljanje kože</symptom>
+    <symptom>Otvorene ranice</symptom>
+    <symptom>Nepravilne izrasline</symptom>
+  </diagnosis>
+  <diagnosis category="Kožne bolesti" name="Akne">
+    <symptom>Gnojne izrasline</symptom>
+    <symptom>Crvenilo</symptom>
+    <symptom>Bolovi na koži</symptom>
+  </diagnosis>
+  <diagnosis category="Kožne bolesti" name="Rak kože">
+    <symptom>Nepravilne izrasline</symptom>
+    <symptom>Promjena boje madeža</symptom>
+    <symptom>Mrlja na koži</symptom>
+    <symptom>Krvarenje i mrlje na koži</symptom>
+    <symptom>Promjena boje izrasline</symptom>
+  </diagnosis>
+  <diagnosis category="Kožne bolesti" name="Herpes">
+    <symptom>Crvene ranice</symptom>
+    <symptom>Mjehurići ispunjeni tekućinom</symptom>
+  </diagnosis>
+  <diagnosis category="Kožne bolesti" name="Bradavice">
+    <symptom>Izraslina ne mijenja boju</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Prijelom">
+    <symptom>Bol u mjestu ozljede</symptom>
+    <symptom>Oticanje</symptom>
+    <symptom>Podljev krvi</symptom>
+    <symptom>Nemogućnost pomicanja ozljeđenog dijela</symptom>
+    <symptom>Bol na dodir</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Uganuće">
+    <symptom>Bolno pomicanje zglobova</symptom>
+    <symptom>Oticanje</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Ruptura mišića">
+    <symptom>Bol u mišićima</symptom>
+    <symptom>Podljev krvi u mišićima</symptom>
+    <symptom>Oslabljena funkcija mišića</symptom>
+    <symptom>Vidljiva fizička promjena mišića</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Mišićna distrofija">
+    <symptom>Postepeno slabljenje mišića</symptom>
+    <symptom>Smanjenje volumena mišića</symptom>
+    <symptom>Smanjenje funkcionalnosti mišića</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Skolioza">
+    <symptom>Iskrivljena kralježnica</symptom>
+    <symptom>Bol u kralježnici</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Rahitis">
+    <symptom>Skeletni deformiteti</symptom>
+    <symptom>Poremećaj rasta</symptom>
+    <symptom>Dentalni problemi</symptom>
+    <symptom>Oticanje zglobova</symptom>
+    <symptom>Lako lomljenje kostiju</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Osteoporoza">
+    <symptom>Lako lomljenje kostiju</symptom>
+    <symptom>Bol u kukovima</symptom>
+  </diagnosis>
+  <diagnosis category="Mišićno-koštani i vezivni sustav" name="Artritis">
+    <symptom>Bol u zglobovima</symptom>
+    <symptom>Oticanje zglobova</symptom>
+    <symptom>Ukočenost zglobova</symptom>
+  </diagnosis>
+  <diagnosis category="Spolno prenosive bolesti" name="AIDS">
+    <symptom>Brz gubitak težine</symptom>
+    <symptom>Noćno preznojavanje</symptom>
+    <symptom>Umor</symptom>
+    <symptom>Povećani limfni čvorovi</symptom>
+    <symptom>Neurološko problemi</symptom>
+  </diagnosis>
+  <diagnosis category="Spolno prenosive bolesti" name="Gonoreja">
+    <symptom>Gnojni iscjedak iz penisa/rodnice</symptom>
+    <symptom>Bolno mokrenje</symptom>
+  </diagnosis>
+  <diagnosis category="Spolno prenosive bolesti" name="Sifilis">
+    <symptom>Kvržice</symptom>
+    <symptom>Krvave ranice</symptom>
+    <symptom>Osip</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti živčanog sustava" name="Parkisonova">
+    <symptom>Poremećaj izvođenja normalnih kretnji</symptom>
+    <symptom>Usporeno kretanje</symptom>
+    <symptom>Gubitak voljnih pokreta</symptom>
+    <symptom>Nestabilnost tijela</symptom>
+    <symptom>Gubitak ravnoteže</symptom>
+    <symptom>Nekontrolirani pokreti</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti živčanog sustava" name="Alzheimer">
+    <symptom>Gubitak pamćenja</symptom>
+    <symptom>Gubitak sposobnosti rasuđivanja</symptom>
+    <symptom>Promjena osobnosti</symptom>
+    <symptom>Demencija</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti živčanog sustava" name="Moždani udar">
+    <symptom>Oduzetost jedne strane tijela</symptom>
+    <symptom>Otežani govor</symptom>
+    <symptom>Zamagljenje vida</symptom>
+    <symptom>Glavobolja</symptom>
+    <symptom>Gubitak ravnoteže</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti živčanog sustava" name="Mononukleoza">
+    <symptom>Povišena temperatura</symptom>
+    <symptom>Natečeni limfni čvorovi</symptom>
+    <symptom>Bolno gutanje</symptom>
+    <symptom>Umor</symptom>
+    <symptom>Osjećaj slabosti</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti imunološkog sustava" name="Alergije">
+    <symptom>Svrbež nosa</symptom>
+    <symptom>Svrbež očiju</symptom>
+    <symptom>Kihanje koje ne donosi olakšanje</symptom>
+    <symptom>Oticanje</symptom>
+    <symptom>Teško disanje</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Karijes">
+    <symptom>Osjetljivost zuba na hladno i toplo</symptom>
+    <symptom>Bol u zubu</symptom>
+    <symptom>Propadanje zuba</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Žgaravica">
+    <symptom>Žarenje u prsima</symptom>
+    <symptom>Bol u prsima</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Zatvor stolice">
+    <symptom>Bol u trbuhu</symptom>
+    <symptom>Nemogućnost obavljanja nužde</symptom>
+    <symptom>Tvrda stolica</symptom>
+    <symptom>Glomazna stolica</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Proljev">
+    <symptom>Bol u trbuhu</symptom>
+    <symptom>Često obavljanje nužde</symptom>
+    <symptom>Tekuća stolica</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Gastritis">
+    <symptom>Bolovi u gornjem dijelu trbuha</symptom>
+    <symptom>Nadutost</symptom>
+    <symptom>Oslabljen apetit</symptom>
+    <symptom>Mučnina</symptom>
+    <symptom>Povračanje</symptom>
+    <symptom>Krvava stolica</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Chronova bolest">
+    <symptom>Bol u trbuhu</symptom>
+    <symptom>Gubitak tjelesne mase</symptom>
+    <symptom>Temperatura</symptom>
+    <symptom>Umor</symptom>
+  </diagnosis>
+  <diagnosis category="Bolesti probavnog sustava" name="Upala slijepog crijeva">
+    <symptom>Bol u desnom donjem dijelu trbuha</symptom>
+    <symptom>Mučnina</symptom>
+    <symptom>Gubitak apetita</symptom>
+    <symptom>Nagon na povraćanje</symptom>
+    <symptom>Učestalo mokrenje</symptom>
+  </diagnosis>
+</data>

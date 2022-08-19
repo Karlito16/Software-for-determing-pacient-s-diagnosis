@@ -1,0 +1,24 @@
+<data>
+  <scheme>
+    <user id="id">
+      <password>########</password> <!-- koristiti module za python koji heštegira šifru -->
+      <personal_info>
+        <name>Name</name>
+        <middle_name>Middle Name</middle_name> <!-- srednje ime nije obavezno tj. ne mora značit da korisnik ima srednje ime -->
+        <surname>Surname</surname>
+        <gender>male/female</gender>
+        <date_of_birth>DD-MM-YYYY</date_of_birth>
+        <place_of_birth>place</place_of_birth>
+        <residential_address>address<residential_address>
+        <unique_numbers OIB="12345678901" MBO="160480255" BOO="520 9545519"/> <!-- brojevi uzeti sa slike: http://www.hzzo-net.hr/dload/obvezno_osig/Iskznc_crv.pdf -->
+        <contacts e-mail="address" telephone="01 2345 678" mobile="091 2345 678"/> <!-- koristiti međunarodne brojeve te više vrsta maila (.com/.hr/.net,...)? -->
+      </personal_info>
+      <parent_info>
+        <name>Name</name>
+        <middle_name>Middle Name</middle_name> <!-- srednje ime nije obavezno tj. ne mora značit da korisnik ima srednje ime -->
+        <surname>Surname</surname>
+        <contacts e-mail="address" mobile="091 2345 678"/> <!-- koristiti međunarodne brojeve te više vrsta maila (.com/.hr/.net,...)? -->
+      </parent_info>
+    </user>
+  </scheme>
+</data>
