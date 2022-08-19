@@ -1,15 +1,15 @@
 # Software-for-determing-pacient-s-diagnosis
 Application that helps doctors to determine pacient's diagnosis.
 
-==================
+**
 About this project
-==================
+**
 
     This project was completed in 2019, as a final project for Grade 3 of high school.
     
-==========================================================
+**
 How to create a Python 3 virtual environment in Windows 10
-==========================================================
+**
 
     ---------------------------------------------------------------------
     Creating a virtual environment on Windows 10 with Python3 venv module
@@ -59,9 +59,9 @@ How to create a Python 3 virtual environment in Windows 10
 
     After the virtual environment is deactivated, your command prompt will switch to the global Python 3 environment. In addition, those Python 3 dependencies that you had installed in your virtual environment will not be available.
 
-===========================
+**
 How to run this application
-===========================
+**
 
 	Source point is SODP.py file. You need to have Python installed on your PC (https://www.python.org/downloads/).
 	
