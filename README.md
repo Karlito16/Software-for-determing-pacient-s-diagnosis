@@ -1,9 +1,9 @@
 # Software-for-determing-pacient-s-diagnosis
 Application that helps doctors to determine pacient's diagnosis.
 
-**
+
 About this project
-**
+
 
     This project was completed in 2019, as a final project for Grade 3 of high school.
     
